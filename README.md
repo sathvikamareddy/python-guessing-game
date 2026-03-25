@@ -4,7 +4,7 @@
 
 </div>
 
-## Overview
+ Overview
 
 The Python Guessing Game is a simple console-based game where the computer randomly selects a number within a specified range and the user attempts to guess it. The program provides feedback after each guess indicating whether the guess is too high or too low until the correct number is found.
 
